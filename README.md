@@ -1,0 +1,1 @@
+# spring-integration-5.1.6.RELEASE-tekito-na-honyaku
